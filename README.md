@@ -1,4 +1,4 @@
-# Driver-Drowsiness-Detection
+# Driver-Drowsiness-Alert-System
 Dlib and OpenCV were used to create this project that detects driver drowsiness with Python as the backend language.
 <h3>Logic of project</h3>
 The project features direct interaction with the 68 facial landmark detector as well as the Dlib library's face detector. The 68 facial landmark detector is a well-trained, high-performance detector that detects the spots on the human face that are used to assess whether the eyes are open or closed.</br></br>
