@@ -4,9 +4,9 @@ The Drowsiness-alert system is a computer vision system that makes use of 68 lan
 This is an ingenious innovation to curtail road accidents. Our Drowsiness-alert system warns the user to drive more carefully, hence preventing imminent accidents on the road. 
 
 Potential features include:-
--Use of API servers to notify respective government authorities or traffic police when driver fails to turn off the drowsy/sleepy warning in under 1 minute.
--Mobile app integration 
--Future prospects may include contacting vehicle brand owners to implement our Drowsiness-alert system software onto in-built devices in order to enhance road safety measures.
+<li>-Use of API servers to notify respective government authorities or traffic police when driver fails to turn off the drowsy/sleepy warning in under 1 minute.</li>
+<li>-Mobile app integration </li>
+<li>-Future prospects may include contacting vehicle brand owners to implement our Drowsiness-alert system software onto in-built devices in order to enhance road safety measures.</li>
 
 Dlib and OpenCV were used to create this project that detects driver drowsiness with Python as the backend language.
 <h3>Logic of project</h3>
